@@ -1,2 +1,2 @@
 # guitar.red
-private guitar lesson app
+Coming soon
